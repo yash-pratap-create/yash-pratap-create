@@ -131,26 +131,6 @@ status:     Always learning and building impactful projects 🚀
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yash-pratap-create&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-pratap-create&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=yash-pratap-create&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-pratap-create&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
