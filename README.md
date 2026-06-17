@@ -23,7 +23,6 @@
 ```yaml
 name:       Yash Pratap Singh
 education:  B.Tech CSE @ SRM Institute of Science and Technology
-cgpa:       9.2 / 10.0
 roles:
   - Full-Stack Developer
   - AI Enthusiast
