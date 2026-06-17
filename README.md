@@ -139,10 +139,6 @@ status:     Always learning and building impactful projects 🚀
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=yash-pratap-create&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-
-<br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-pratap-create&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
 <br/><br/>
