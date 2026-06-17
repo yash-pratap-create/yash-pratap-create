@@ -12,8 +12,6 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/yash-pratap-create"><img src="https://komarev.com/ghpvc/?username=yash-pratap-create&label=Profile+Views&color=6E40C9&style=for-the-badge" alt="Profile Views" /></a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/yash-pratap-singh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
   <a href="mailto:robingoodyash15@gmail.com"><img src="https://img.shields.io/badge/Email-robingoodyash15%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
