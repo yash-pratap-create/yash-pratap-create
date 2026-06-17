@@ -1,17 +1,24 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Yash%20Pratap%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" />
+
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6E40C9&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Yash+Pratap+Singh+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI+Enthusiast;Software+Engineering+Student+%F0%9F%8E%93;Building+scalable+%26+impactful+software+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Yash+Pratap+Singh+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI+Enthusiast;Software+Engineering+Student+%F0%9F%8E%93;Building+scalable+%26+impactful+software+%F0%9F%9A%80;Open+to+Opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
 
 <p align="center">
-  <em>Building scalable web applications, AI-powered solutions, and innovative software products.</em>
+  <em>✨ Building scalable web applications, AI-powered solutions, and innovative software products. ✨</em>
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yash-pratap-create&label=Profile+Views&color=6E40C9&style=flat-square" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/yash-pratap-singh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:yashpratapsingh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/yash-pratap-create"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/yash-pratap-create"><img src="https://komarev.com/ghpvc/?username=yash-pratap-create&label=Profile+Views&color=6E40C9&style=for-the-badge" alt="Profile Views" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/yash-pratap-singh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:robingoodyash15@gmail.com"><img src="https://img.shields.io/badge/Email-robingoodyash15%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;
+  <a href="https://github.com/yash-pratap-create"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 </div>
@@ -23,6 +30,7 @@
 ```yaml
 name:       Yash Pratap Singh
 education:  B.Tech CSE @ SRM Institute of Science and Technology
+email:      robingoodyash15@gmail.com
 roles:
   - Full-Stack Developer
   - AI Enthusiast
@@ -32,6 +40,7 @@ interests:
   - Artificial Intelligence & ML
   - System Design
   - Problem Solving
+fun_fact:   I turn coffee ☕ into code 💻
 status:     Always learning and building impactful projects 🚀
 ```
 
@@ -155,13 +164,15 @@ status:     Always learning and building impactful projects 🚀
     <img src="https://img.shields.io/badge/GitHub-yash--pratap--create-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:yashpratapsingh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-yashpratapsingh%40email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:robingoodyash15@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-robingoodyash15%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <em>Turning ideas into impactful software, one commit at a time 🚀</em>
+  <em>✨ Turning ideas into impactful software, one commit at a time 🚀 ✨</em>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=footer" width="100%" />
 </div>
