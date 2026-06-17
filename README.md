@@ -23,24 +23,32 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## �‍💻 About Me
 
-```yaml
-name:       Yash Pratap Singh
-education:  B.Tech CSE @ SRM Institute of Science and Technology
-email:      robinhoodyash15@gmail.com
-roles:
-  - Full-Stack Developer
-  - AI Enthusiast
-  - Open-Source Contributor
-interests:
-  - Full-Stack Development
-  - Artificial Intelligence & ML
-  - System Design
-  - Problem Solving
-fun_fact:   I turn coffee ☕ into code 💻
-status:     Always learning and building impactful projects 🚀
-```
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+**Hi, I'm Yash Pratap Singh** — a passionate Full-Stack Developer and AI enthusiast pursuing **B.Tech in Computer Science** at SRM Institute of Science and Technology.
+
+I love turning complex problems into elegant, scalable software solutions. From building AI-powered platforms to full-stack web applications, I'm always pushing the boundaries of what's possible with code.
+
+<br/>
+
+🎓 &nbsp;**Education** — B.Tech CSE @ SRM Institute of Science and Technology  
+💼 &nbsp;**Currently** — Building impactful open-source & AI projects  
+🌱 &nbsp;**Learning** — Advanced ML, System Design & Cloud Architecture  
+🤝 &nbsp;**Open to** — Internships, Collaborations & Freelance Projects  
+📬 &nbsp;**Reach me at** — robinhoodyash15@gmail.com  
+⚡ &nbsp;**Fun fact** — I turn coffee ☕ into code 💻
+
+<br clear="right"/>
+
+<details>
+<summary><b>🧠 My Philosophy</b></summary>
+<br/>
+<blockquote>
+"Code is not just instructions for machines — it's a craft, a form of expression, and a tool to solve real-world problems. I believe in writing clean, purposeful code that makes a difference."
+</blockquote>
+</details>
 
 ---
 
