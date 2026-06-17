@@ -135,7 +135,7 @@ status:     Always learning and building impactful projects 🚀
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-pratap-create&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-pratap-create&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=&count_private=true" height="180" alt="Top Languages" />
 
 <br/><br/>
 
