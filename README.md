@@ -143,6 +143,10 @@ status:     Always learning and building impactful projects 🚀
 
 <br/><br/>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yash-pratap-create&theme=tokyonight" alt="All-time Contribution History" width="100%" />
+
+<br/><br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yash-pratap-create/yash-pratap-create/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yash-pratap-create/yash-pratap-create/output/github-contribution-grid-snake.svg" />
