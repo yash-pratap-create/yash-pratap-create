@@ -127,18 +127,6 @@ I love turning complex problems into elegant, scalable software solutions. From 
 
 ---
 
-## 🌱 Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/System_Design-6E40C9?style=for-the-badge&logo=buffer&logoColor=white" />
-</p>
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
