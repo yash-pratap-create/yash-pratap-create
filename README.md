@@ -145,6 +145,14 @@ status:     Always learning and building impactful projects 🚀
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-pratap-create&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yash-pratap-create/yash-pratap-create/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yash-pratap-create/yash-pratap-create/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/yash-pratap-create/yash-pratap-create/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ---
