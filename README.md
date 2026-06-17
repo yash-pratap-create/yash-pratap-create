@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-pratap-singh-b75034357/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:robingoodyash15@gmail.com"><img src="https://img.shields.io/badge/Email-robingoodyash15%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:robinhoodyash15@gmail.com"><img src="https://img.shields.io/badge/Email-robinhoodyash15%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   &nbsp;
   <a href="https://github.com/yash-pratap-create"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
@@ -28,7 +28,7 @@
 ```yaml
 name:       Yash Pratap Singh
 education:  B.Tech CSE @ SRM Institute of Science and Technology
-email:      robingoodyash15@gmail.com
+email:      robinhoodyash15@gmail.com
 roles:
   - Full-Stack Developer
   - AI Enthusiast
@@ -168,8 +168,8 @@ status:     Always learning and building impactful projects 🚀
     <img src="https://img.shields.io/badge/GitHub-yash--pratap--create-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:robingoodyash15@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-robingoodyash15%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:robinhoodyash15@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-robinhoodyash15%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
